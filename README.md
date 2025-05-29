@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Course materials including lectures and problem sets for CMU 10-742: Machine Learning in Healthcare, taught in Fall 2024.
+Course materials including lectures and problem sets for CMU 10-742: Machine Learning in Healthcare, taught in Fall 2024. [Course Website](https://adamleeberger.github.io/ML-in-healthcare-course/) 
 
 ## About This Course
 
@@ -60,6 +60,6 @@ Course website: https://adamleeberger.github.io/ML-in-healthcare-course/
 
 ## Related Resources
 
-- [Course Website](https://adamleeberger.github.io/10742/)
+- [Course Website](https://adamleeberger.github.io/ML-in-healthcare-course/) 
 - [Carnegie Mellon University School of Computer Science](https://wwww.cs.cmu.edu)
 - [CC BY 4.0 License Details](https://creativecommons.org/licenses/by/4.0/)
